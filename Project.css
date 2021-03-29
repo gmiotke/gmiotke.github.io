@@ -1,0 +1,80 @@
+#home {
+	background-color: Gold;
+	margin: 25px
+}
+
+#school {
+	background-color: #c5050c;
+	color: White;
+	margin: 25px
+}
+
+#swimming {
+	background-color: Aqua;
+	margin: 25px
+}
+
+#other {
+	background-color: LightGoldenRodYellow;
+	margin: 25px
+}
+
+#column{
+	column-count: 2
+}
+
+h1{
+	font-family: Helvetica, Arial, sans-serif
+}
+
+h3{
+	font-family: Papyrus, fantasy;
+	font-style: italic
+}
+
+p{
+	font-family: Garamond, Avara, serif
+}
+
+table{
+	width: 100%;
+	border: 1px solid black;
+}
+
+img{
+	width: 200px;
+	height: 200px
+}
+
+#img1{
+	width: 300px;
+	height: 200px
+}
+
+#swimlist{
+	list-style-position: inside
+}
+
+#schooltext{
+	text-align:center
+}
+
+
+tr{
+	text-align: center;
+	border: 1px solid black;
+}
+
+td{
+	text-align:center;
+	border: 1px solid black;
+	width: 33.33333%
+}
+
+#homepage{
+	text-align:center
+}
+
+#homepage1{
+	text-align:center
+}
